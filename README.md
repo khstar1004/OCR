@@ -157,5 +157,5 @@ MIT License. 자세한 내용은 LICENSE 파일 참조.
 
 ## 문의
 
-- 이슈 트래커: https://github.com/your-repo/ksmro-unit-detector/issues
+- 이슈 트래커: https://github.com/khstar1004/OCR/issues
 - 이메일: jamesen1004@gmail.com
