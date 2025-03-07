@@ -1,0 +1,29 @@
+# OCR 관련 패키지
+easyocr>=1.6.2
+pytesseract>=0.3.10
+Pillow>=9.3.0
+
+# 웹 크롤링 관련 패키지
+requests>=2.28.1
+beautifulsoup4>=4.11.1
+selenium>=4.7.2
+tqdm>=4.64.1
+
+# 데이터 처리 및 분석
+pandas>=2.1.0
+numpy>=1.23.5
+openpyxl>=3.0.10
+matplotlib>=3.6.2
+xlsxwriter>=3.0.7
+
+# 유틸리티
+python-dotenv>=1.0.0
+colorama>=0.4.6
+psutil>=5.9.0
+
+# 이미지 처리
+opencv-python>=4.6.0.66
+scikit-image>=0.21.0
+
+# 로깅 및 디버깅
+loguru>=0.7.0

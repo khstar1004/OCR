@@ -1,0 +1,55 @@
+2025-03-02 15:02:53 | INFO     | src.crawler.ksmro_crawler:generate_product_urls:440 - ID 범위 0-50 기반 URL 생성 중...
+2025-03-02 15:02:53 | INFO     | src.crawler.ksmro_crawler:generate_product_urls:466 - 총 51개 상품 URL 생성 완료
+2025-03-02 15:02:53 | INFO     | src.crawler.ksmro_crawler:crawl_products:483 - 병렬 크롤링 시작: 51개 URL, 4개 스레드 사용
+2025-03-02 15:02:53 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=1
+2025-03-02 15:02:53 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=3
+2025-03-02 15:02:53 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=0
+2025-03-02 15:02:53 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=2
+2025-03-02 15:02:53 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=4
+2025-03-02 15:02:53 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=6
+2025-03-02 15:02:53 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=7
+2025-03-02 15:02:53 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=8
+2025-03-02 15:02:54 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=10
+2025-03-02 15:02:55 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=9
+2025-03-02 15:02:56 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=5
+2025-03-02 15:02:56 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=11
+2025-03-02 15:02:56 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=14
+2025-03-02 15:02:56 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=12
+2025-03-02 15:02:57 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=13
+2025-03-02 15:02:58 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=18
+2025-03-02 15:02:58 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=15
+2025-03-02 15:02:58 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=17
+2025-03-02 15:02:58 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=20
+2025-03-02 15:02:58 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=16
+2025-03-02 15:02:59 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=19
+2025-03-02 15:03:00 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=22
+2025-03-02 15:03:01 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=21
+2025-03-02 15:03:01 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=23
+2025-03-02 15:03:01 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=24
+2025-03-02 15:03:02 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=25
+2025-03-02 15:03:02 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=26
+2025-03-02 15:03:04 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=28
+2025-03-02 15:03:04 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=29
+2025-03-02 15:03:04 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=27
+2025-03-02 15:03:04 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=31
+2025-03-02 15:03:04 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=30
+2025-03-02 15:03:04 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=35
+2025-03-02 15:03:04 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=36
+2025-03-02 15:03:04 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=37
+2025-03-02 15:03:04 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=38
+2025-03-02 15:03:05 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=33
+2025-03-02 15:03:05 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=39
+2025-03-02 15:03:05 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=40
+2025-03-02 15:03:05 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=32
+2025-03-02 15:03:05 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=34
+2025-03-02 15:03:06 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=41
+2025-03-02 15:03:06 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=42
+2025-03-02 15:03:07 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=44
+2025-03-02 15:03:08 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=43
+2025-03-02 15:03:08 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=45
+2025-03-02 15:03:08 | WARNING  | src.crawler.ksmro_crawler:get_product_details:126 - 상품 정보가 유효하지 않아 크롤링을 건너뜁니다: https://ksmro.com/shop/view.php?index_no=48
+2025-03-02 15:03:08 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=46
+2025-03-02 15:03:08 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=47
+2025-03-02 15:03:09 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=50
+2025-03-02 15:03:10 | INFO     | src.crawler.ksmro_crawler:get_product_details:139 - 상품 크롤링 성공: https://ksmro.com/shop/view.php?index_no=49
+2025-03-02 15:03:10 | INFO     | src.crawler.ksmro_crawler:crawl_products:560 - 총 32개 상품 페이지 크롤링 완료
